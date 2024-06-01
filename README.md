@@ -2,7 +2,12 @@
 
 Welcome to the Django Web Framework Learning Curriculum repository! This curriculum is meticulously designed to help upcoming backend developers master Django, starting from fundamental Python concepts to advanced Django topics. Whether you're just beginning your journey or looking to deepen your expertise, this guide provides a structured and comprehensive path to becoming proficient in Django development.
 
-## What You'll Learn:
+## Who Is This For?
+- **Aspiring Backend Developers**: If you're new to backend development, this curriculum will provide you with a strong foundation in Django.
+- **Intermediate Developers**: If you have some experience but want to deepen your understanding, this guide will help you explore advanced topics.
+- **Experienced Developers**: If you're familiar with other frameworks and want to add Django to your skillset, you'll find this curriculum comprehensive and informative.
+
+## What You'll Need to Learn:
 - **Python Basics**: Dive into Python syntax, data types, functions, and control flow.
 - **Object-Oriented Programming**: Understand OOP concepts like inheritance, polymorphism, encapsulation, and abstraction.
 - **Django Basics**: Set up your Django environment, create projects and apps, and understand the Django architecture.
@@ -12,11 +17,6 @@ Welcome to the Django Web Framework Learning Curriculum repository! This curricu
 - **Advanced Concepts**: Explore Django's authentication system, middleware, and the Django REST Framework (DRF).
 - **Deployment and Best Practices**: Prepare your applications for deployment, optimize performance, and implement security best practices.
 - **Real-World Projects**: Apply your knowledge by building and deploying a real-world Django application.
-
-## Who Is This For?
-- **Aspiring Backend Developers**: If you're new to backend development, this curriculum will provide you with a strong foundation in Django.
-- **Intermediate Developers**: If you have some experience but want to deepen your understanding, this guide will help you explore advanced topics.
-- **Experienced Developers**: If you're familiar with other frameworks and want to add Django to your skillset, you'll find this curriculum comprehensive and informative.
 
 ## 📚 Chapter 1: Python Basics and Object-Oriented Programming (OOP)
 
