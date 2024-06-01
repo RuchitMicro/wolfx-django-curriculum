@@ -18,12 +18,6 @@ Welcome to the Django Web Framework Learning Curriculum repository! This curricu
 - **Intermediate Developers**: If you have some experience but want to deepen your understanding, this guide will help you explore advanced topics.
 - **Experienced Developers**: If you're familiar with other frameworks and want to add Django to your skillset, you'll find this curriculum comprehensive and informative.
 
----
-
-Start your Django journey today and build powerful web applications with confidence! 🚀✨
-
----
-
 ## 📚 Chapter 1: Python Basics and Object-Oriented Programming (OOP)
 
 ### 1.1 Introduction to Python
