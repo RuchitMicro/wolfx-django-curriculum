@@ -250,4 +250,4 @@ Welcome to the Django Web Framework Learning Curriculum repository! This curricu
 
 ---
 
-Happy learning! 🎉 If you have any questions or need further assistance, feel free to reach out. Let's build something amazing together! 🏗️✨
+Happy learning! 🎉 If you have any questions or need further assistance, please reach out by raising an issue in this github repository. Let's build something amazing together! 🏗️✨
